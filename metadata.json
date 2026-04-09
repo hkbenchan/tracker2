@@ -1,0 +1,5 @@
+{
+  "name": "OINP Tracker",
+  "description": "A minimalist dark-mode webapp to track OINP milestones and days elapsed since submission.",
+  "requestFramePermissions": []
+}
